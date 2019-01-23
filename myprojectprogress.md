@@ -1,0 +1,1 @@
+I would like to work on game. I think that common repository would work fine because it would be a small game and Blessed Repository would just be another level getting in the way. I do think that Blessed Repository would be better for large scale projects though.
